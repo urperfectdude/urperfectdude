@@ -5,15 +5,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Web Development, Cloud and DS.
-- ⭐ &nbsp; Looking for contributions to [JavaScriptONLY](https://github.com/sohamsshah/JavaScriptONLY) and maintaining [Rotten Scripts](https://github.com/HarshCasper/Rotten-Scripts) with an aim to make Open Source Cakewalk for everyone and impact the developer community by assisting them.
-- 🔎 &nbsp; Researching in the field of Deep Learning and Computer Science.
+- 🔭 &nbsp; I’m currently learning Flutter and Decentralized finance.
+- ⭐ &nbsp; Looking for contributions in Electronics.
+- 🔎 &nbsp; Researching in the field of Deep Learning.
 - 🤔 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Software developer.
-- 🌱 &nbsp; Enthusiast in Open Source, Cloud Technology and Artificial Intelligence.
+- 🎓 &nbsp; Pursuing Diploma in Electrical Engineering.
+- 💼 &nbsp; Digital Marketer.
+- 🌱 &nbsp; Enthusiast in Blockchain, Robotics and Artificial Intelligence.
 - ✍️ &nbsp; Love writing Blogs on Medium, learning Product dev and UI/UX for applications. 
-- ✨ &nbsp; Out of work, find me reading Cosmology and Philosophy, making funny Programming Memes or singing.
+- ✨ &nbsp; Out of work, find me learning about Web 3 and Electric Vehicles.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. Coffee <-> Code 
 
 <h3>🛠 Tech Stack</h3>
