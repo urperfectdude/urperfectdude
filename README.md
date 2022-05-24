@@ -29,6 +29,7 @@
 * ![arduino](https://img.shields.io/badge/arduino%20-%231572B6.svg?&style=for-the-badge&logo=arduino&logoColor=white "Arduino")
 * ![flutter](https://img.shields.io/badge/Flutter-0078D6?style=for-the-badge&logo=flutter&logoColor=white "Flutter")
 * ![python](https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python&logoColor=white "Python")
+* ![solidity](https://img.shields.io/badge/-solidity-white?style=for-the-badge&logo=solidity&logoColor=grey "Python")
 
 </br>
 
