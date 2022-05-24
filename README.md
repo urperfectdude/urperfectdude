@@ -24,7 +24,7 @@
 - ☁ &nbsp; Google Cloud Platform | Firebase
 - 🔧 &nbsp; Github | Visual Studio code | Eclipse | Pycharm 
 
-<h3>Want to Expertise in</h3> 
+<h3>🤩Want to Expertise in</h3> 
 
 * ![arduino](https://img.shields.io/badge/arduino%20-%231572B6.svg?&style=for-the-badge&logo=arduino&logoColor=white "Arduino")
 * ![flutter](https://img.shields.io/badge/Flutter-0078D6?style=for-the-badge&logo=flutter&logoColor=white "Flutter")
@@ -32,10 +32,13 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urperfectdude&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/urperfectdude/github-readme-stats)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=urperfectdude&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=urperfectdude&theme=flag-india&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=urperfectdude&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=urperfectdude&show_icons=true&locale=en&theme=radical" alt="urperfectdude" /></p>
-
+<h3>✍️Random Dev Quote</h3>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
