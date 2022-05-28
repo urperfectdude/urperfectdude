@@ -6,12 +6,12 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Flutter and Decentralized finance.
-- ⭐ &nbsp; Looking for contributions in Electronics.
+- ⭐ &nbsp; Looking for contributions in EV Ecosystem.
 - 🔎 &nbsp; Researching in the field of Deep Learning.
 - 🤔 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Pursuing Diploma in Electrical Engineering.
 - 💼 &nbsp; Digital Marketer.
-- 🌱 &nbsp; Enthusiast in Blockchain, Robotics and Artificial Intelligence.
+- 🌱 &nbsp; Enthusiast in EV, Blockchain, Robotics, AI and ML.
 - ✍️ &nbsp; Love writing Blogs on Medium, learning Product dev and UI/UX for applications. 
 - ✨ &nbsp; Out of work, find me learning about Web 3 and Electric Vehicles.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. Coffee <-> Code 
