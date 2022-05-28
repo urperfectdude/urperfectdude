@@ -12,7 +12,7 @@
 - 🎓 &nbsp; Pursuing Diploma in Electrical Engineering.
 - 💼 &nbsp; Digital Marketer.
 - 🌱 &nbsp; Enthusiast in EV, Blockchain, Robotics, AI and ML.
-- ✍️ &nbsp; Love writing Blogs on Medium, learning Product dev and UI/UX for applications. 
+- 😎 &nbsp; Love playing football and listening to songs.. 
 - ✨ &nbsp; Out of work, find me learning about Web 3 and Electric Vehicles.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. Coffee <-> Code 
 
