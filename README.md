@@ -47,3 +47,5 @@
 &nbsp; <a href="https://www.linkedin.com/in/prashant-nayak-31303a195/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:prashantnayak4444@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
+<a href="http://www.github.com/urperfectdude"><img src="https://activity-graph.herokuapp.com/graph?username=urperfectdude&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
