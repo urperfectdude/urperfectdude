@@ -32,12 +32,9 @@
 </br>
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=urperfectdude&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=urperfectdude&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=urperfectdude&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-# ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=urperfectdude&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=urperfectdude&theme=github_dark&hide_border=true&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=urperfectdude&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -49,3 +46,6 @@
 </p>
 
 <a href="http://www.github.com/urperfectdude"><img src="https://activity-graph.herokuapp.com/graph?username=urperfectdude&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+# ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
