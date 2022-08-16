@@ -4,23 +4,20 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Flutter and Decentralized finance.
-- ⭐ &nbsp; Looking for contributions in EV Ecosystem.
-- 🔎 &nbsp; Researching in the field of Deep Learning.
 - 🤔 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Pursuing Diploma in Electrical Engineering.
 - 💼 &nbsp; Digital Marketer.
-- 🌱 &nbsp; Enthusiast in EV, Blockchain, Robotics, AI and ML.
+- 🌱 &nbsp; EV, Flutter, Blockchain, AI and ML Enthusiast.
 - 😎 &nbsp; Love playing football and listening to songs.. 
 - ✨ &nbsp; Out of work, find me learning about Web 3 and Electric Vehicles.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. Coffee <-> Code 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | Dart
-- 🌐 &nbsp; HTML | CSS | Javascript | Flutter
+- 💻 &nbsp; Python | Dart
+- 🌐 &nbsp; Flutter
 - 🐍 &nbsp; Selenium | Panda | Matplotlib | Hub
-- ☁ &nbsp; Google Cloud Platform | Firebase
-- 🔧 &nbsp; Github | Visual Studio code | Eclipse | Pycharm 
+- ☁  &nbsp; Google Cloud Platform | Firebase
+- 🔧 &nbsp; Github | Visual Studio code  
 
 <h3>🤩Want to Expertise in</h3> 
 
