@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Digital Marketer.
 - 🌱 &nbsp; EV, Flutter, Blockchain, AI and ML Enthusiast.
-- 😎 &nbsp; Love playing football and listening to songs.. 
+- 😎 &nbsp; Love badminton & playing football and listening to songs.. 
 - ✨ &nbsp; Out of work, find me learning about Web 3 and Electric Vehicles.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. Coffee <-> Code 
 
